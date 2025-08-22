@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### 🔗 Links
 
 - Solution URL: 🐙 [GitHub Repository](https://github.com/davidOliveira1995/blog-preview-card-main)
-- Live Site URL: 🌐 [GitHub Pages]()
+- Live Site URL: 🌐 [GitHub Pages](https://davidoliveira1995.github.io/blog-preview-card-main/)
 
 ## My process
 
